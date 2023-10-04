@@ -30,9 +30,10 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 
 ## 手順
 
+
 1. visualstudiocode を起動して、push したいファイルを開く
 
-2. ソース管理のアイコンをクリックする
+2. 画面左側にあるソース管理のアイコンをクリックする
 
    ![push画面を表示する](../images/kanrigamen.png)
 
