@@ -51,4 +51,8 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
    　 →`コミットしてプッシュ`を選択
 
 6. 終了！
+下記のように変更履歴が残っていれば成功です
+ ![pushをする](/images/log.png)
+
+
 
