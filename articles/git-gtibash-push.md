@@ -12,15 +12,15 @@ published: false # 公開設定（falseにすると下書き）
 
 ## はじめに
 
-【目標】
+### 【目標】
 VisualStudioCode で Push をして、github や zenn に変更内容を保存・更新する。
 
-【必要なもの】
-・github 上のリポジトリ
-・VisualStudioCode
-・push したいフォルダーまたはファイル
+### 【必要なもの】
+ - github 上のリポジトリ
+ - VisualStudioCode
+ - push したいフォルダーまたはファイル
 
-【単語】
+### 【単語】
 
 - comit：ソースコードをリポジトリに更新する作業
 
