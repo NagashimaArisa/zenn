@@ -37,18 +37,17 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
    ![push画面を表示する](../images/kanrigamen.png)
 
 3. push したいファイルの横にある`＋`を押して、状態を`変更`から`ステージされている変更`へ移動させる
-(変更前)
-![変更前](../images/tuika_befor.png)
-
-(変更後)
-![変更後](../images/tuila_after.png)
+   (変更前)
+   ![変更前](../images/tuika_befor.png)
+   (変更後)
+   ![変更後](../images/tuila_after.png)
 
 4. `メッセージ`の入力をする(画像内で"push test"と記述されている部分)
 
    ![pushをする](../images/push.png)
 
 5. ` コミット`ボタンの横にある`✔`をクリックする
-　 →`コミットしてプッシュ`を選択
+   　 →`コミットしてプッシュ`を選択
 
 6. 終了！
    github や zenn をリロードして、内容が変更されているか確認をしてみましょう
