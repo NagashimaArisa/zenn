@@ -13,14 +13,16 @@ published: false # 公開設定（falseにすると下書き）
 ## はじめに
 
 ### 【目標】
+
 VisualStudioCode で Push をして、github や zenn に変更内容を保存・更新する。
 
 ### 【必要なもの】
- - github 上のリポジトリ
- - VisualStudioCode
- - push したいフォルダーまたはファイル
 
-### 【単語】
+- github 上のリポジトリ
+- VisualStudioCode
+- push したいフォルダーまたはファイル
+
+### 【覚えておきたい単語】
 
 - comit：ソースコードをリポジトリに更新する作業
 
@@ -32,11 +34,11 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 
 2. ソース管理のアイコンをクリックする
 
-   ![push画面を表示する](https://github.com/NagashimaArisa/zenn/blob/81dcbe54f58c0e0afba873bffd447a8839017bc8/images/kanrigamen.png)
+   ![push画面を表示する](../images/kanrigamen.png)
 
 3. push したいファイルの横にある`＋`を押して、状態を`変更`から`ステージされている変更`へ移動させる
 
-   ![変更前](../images/tuika_befor.png)
+   ![変更前](images/tuika_befor.png)
 
    ![変更後](../images/tuila_after.png)
 
