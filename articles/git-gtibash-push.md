@@ -14,6 +14,7 @@ published: false # 公開設定（falseにすると下書き）
 ## はじめに
 【目標】
 VisualStudioCodeでPushをして、githubやzennに変更内容を保存する
+
 【必要なもの】
 ・VisualStudioCode
 ・pushしたいフォルダーまたはファイル
@@ -22,7 +23,7 @@ VisualStudioCodeでPushをして、githubやzennに変更内容を保存する
 1. visualstudiocodeを起動して、pushしたいファイルを開く
 
 2. ソース管理のアイコンをクリックする
-![push画面を表示する](./images/kanrigamen.png)
+![push画面を表示する](images/kanrigamen.png)
 
 
 
@@ -36,10 +37,4 @@ VisualStudioCodeでPushをして、githubやzennに変更内容を保存する
 5. `コミット`ボタンの横にある`✔`をクリックする
 　→`コミットしてプッシュ`を選択
 
-
-
-
-pushをする
-・ソース管理→ファイル横の＋をクリックしてステージング環境に送る
-メッセージを入力
-コミットしてプッシュ
+6. 終了！
