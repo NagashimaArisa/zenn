@@ -5,7 +5,7 @@ emoji: "👩‍🚀" # アイキャッチとして使われる絵文字（1文�
 
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 
-topics: ["aws", "iam", "github"] # タグ。["markdown", "rust", "aws"]のように指定する
+topics: ["iam", "github"] # タグ。["markdown", "rust", "aws"]のように指定する
 
 published: false # 公開設定（falseにすると下書き）
 ---
@@ -13,12 +13,14 @@ published: false # 公開設定（falseにすると下書き）
 ## はじめに
 
 ### 【目標】
+
 VisualStudioCode で Push をして、github や zenn に変更内容を保存・更新する。
 
 ### 【必要なもの】
- - github 上のリポジトリ
- - VisualStudioCode
- - push したいフォルダーまたはファイル
+
+- github 上のリポジトリ
+- VisualStudioCode
+- push したいフォルダーまたはファイル
 
 ### 【覚えておきたい単語】
 
