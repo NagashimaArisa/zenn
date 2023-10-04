@@ -1,5 +1,5 @@
 ---
-title: VS codeでターミナルを使わずにPushをする" # 記事のタイトル
+title: VS codeでターミナルを使わずにPushをする # 記事のタイトル
 
 emoji: "🔰" # アイキャッチとして使われる絵文字（1文字だけ）
 
@@ -30,7 +30,7 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 
 ## 手順
 
-1. visualstudiocode を起動して、push したいファイルを開く
+1. VisualStudioCode を起動して、push したいファイルを開く
 
 2. 画面左側にあるソース管理のアイコンをクリックする
 
@@ -43,7 +43,7 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 【変更後】
  ![変更後](/images/tuila_after.png)
 
-4. `メッセージ`の入力をする(画像内で"push test"と記述されている部分)
+4. コミットメッセージを、`メッセージ`欄に入力をする(画像内で"push test"と記述されている部分)
 
    ![pushをする](/images/push.png)
 
@@ -51,4 +51,4 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
    　 →`コミットしてプッシュ`を選択
 
 6. 終了！
-   github や zenn をリロードして、内容が変更されているか確認をしてみましょう
+
