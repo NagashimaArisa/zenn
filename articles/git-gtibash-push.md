@@ -1,5 +1,5 @@
 ---
-title: "VisualStudioCodeでPushをする" # 記事のタイトル
+title: VS codeでターミナルを使わずにPushをする" # 記事のタイトル
 
 emoji: "👩‍🚀" # アイキャッチとして使われる絵文字（1文字だけ）
 
@@ -13,7 +13,7 @@ published: false # 公開設定（falseにすると下書き）
 ## はじめに
 
 【目標】
-VisualStudioCode で Push をして、github や zenn に変更内容を保存する
+VisualStudioCode で Push をして、github や zenn に変更内容を保存・更新する
 
 【必要なもの】
 ・VisualStudioCode
@@ -24,13 +24,17 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 1. visualstudiocode を起動して、push したいファイルを開く
 
 2. ソース管理のアイコンをクリックする
+
    ![push画面を表示する](https://github.com/NagashimaArisa/zenn/blob/81dcbe54f58c0e0afba873bffd447a8839017bc8/images/kanrigamen.png)
 
 3. push したいファイルの横にある`＋`を押して、状態を`変更`から`ステージされている変更`へ移動させる
+
    ![変更前](../images/tuika_befor.png)
+
    ![変更後](../images/tuika_after.png)
 
 4. メッセージの入力をする(画像内で"push test"と記述されている部分)
+
    ![pushをする](../images/push.png)
 
 5.` コミット`ボタンの横にある`✔`をクリックする
