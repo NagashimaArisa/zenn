@@ -24,7 +24,7 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 1. visualstudiocode を起動して、push したいファイルを開く
 
 2. ソース管理のアイコンをクリックする
-   ![push画面を表示する](../images/kanrigamen.png)
+   ![push画面を表示する](https://github.com/NagashimaArisa/zenn/blob/81dcbe54f58c0e0afba873bffd447a8839017bc8/images/kanrigamen.png)
 
 3. push したいファイルの横にある`＋`を押して、状態を`変更`から`ステージされている変更`へ移動させる
    ![変更前](../images/tuika_befor.png)
@@ -33,7 +33,7 @@ VisualStudioCode で Push をして、github や zenn に変更内容を保存�
 4. メッセージの入力をする(画像内で"push test"と記述されている部分)
    ![pushをする](../images/push.png)
 
-5. コミットボタンの横にある`✔`をクリックする
+5.` コミット`ボタンの横にある`✔`をクリックする
    　 →`コミットしてプッシュ`を選択
 
 6. 終了！
