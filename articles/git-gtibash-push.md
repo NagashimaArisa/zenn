@@ -13,17 +13,18 @@ published: false # 公開設定（falseにすると下書き）
 ## はじめに
 
 【目標】
-VisualStudioCode でPushをして、github や zenn に変更内容を保存・更新する。
+VisualStudioCode で Push をして、github や zenn に変更内容を保存・更新する。
 
 【必要なもの】
-・github上のリポジトリ
+・github 上のリポジトリ
 ・VisualStudioCode
 ・push したいフォルダーまたはファイル
 
 【単語】
+
 - comit：ソースコードをリポジトリに更新する作業
 
-- push:ローカルリポジトリ(自分のPC内のみ)の内容をリモートリポジトリ(githubなどオンライン上)に送る
+- push:ローカルリポジトリ(自分の PC 内のみ)の内容をリモートリポジトリ(github などオンライン上)に送る
 
 ## 手順
 
@@ -37,7 +38,7 @@ VisualStudioCode でPushをして、github や zenn に変更内容を保存・�
 
    ![変更前](../images/tuika_befor.png)
 
-   ![変更後](../images/tuika_after.png)
+   ![変更後](../images/tuila_after.png)
 
 4. `メッセージ`の入力をする(画像内で"push test"と記述されている部分)
 
@@ -47,5 +48,4 @@ VisualStudioCode でPushをして、github や zenn に変更内容を保存・�
 　 →`コミットしてプッシュ`を選択
 
 6. 終了！
-githubやzennをリロードして、内容が変更されているか確認をしてみましょう
-
+   github や zenn をリロードして、内容が変更されているか確認をしてみましょう
